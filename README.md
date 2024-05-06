@@ -1,3 +1,2 @@
 # FoodApp-NextJS
 Food App using NextJS instead of regular ReactJS and Express...
-Finished in 40%
